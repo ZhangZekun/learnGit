@@ -1,5 +1,5 @@
 Now yufei changed this line.
-Git is free software distrubited under the GPL.
+zekun changed the second line.
 Git has a mutable inddex called stage.
 git tracks changes of files.
 myself test1.
